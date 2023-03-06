@@ -1,4 +1,4 @@
-## dev-head Professional Attributes
+## Professional Attributes
 
 - **Hosting**: AWS, Rackspace, Linode, Datacenters
 - **Software Languages**: Python, Bash, PHP, Ruby, Javascript
