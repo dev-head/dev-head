@@ -11,6 +11,6 @@
 - **Logging/Monitoring Services**: CloudWatch, Datadog, NewRelic, EKS, Graylog.
 - **Web Servers**: Nginx, Apache2 
 - **Security Services**: TrendMicro Endpoint, Burpsuite, Tenable, Whitehat, Keeper Security. 
-= **Code Versioning**: Git, SVN, CVS. 
+- **Code Versioning**: Git, SVN, CVS. 
 - **Code Hosting**: Github Enterprise, Bitbucket, Gitlab.
 - **Misc Vendors**: Okta, Looker, SonicWall, Shoretel, Jira, Google Workspaces, OpenVPN, SnipeIT, Eramba, KnowBe4, Cloudflare, Meraki Systems Manager, Meraki Firewall, Meraki Switches. 
