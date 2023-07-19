@@ -2,6 +2,8 @@
 
 - **Hosting**: AWS, Rackspace, Linode, Datacenters
 - **Software Languages**: Python, Bash, PHP, Ruby, Javascript
+- **Software Frameworks**: Click, Celery, AngularJs, Symfony, Cilex, ZEND, Cake.
+- **Frameworks & Platforms Written**: OpsCLI, CLAPI, Realm, Zia.
 - **OS**: Ubuntu, Redhat, CentOS, Debian
 - **Databases**: MySQL, Postgres, Elasticsearch, CouchDB, Memcached, Redis, SQLite
 - **CI/CD Services**: Github Actions, TravisCI, Bamboo, Jenkins, CodePipeline, CodeBuild
@@ -13,4 +15,4 @@
 - **Security Services**: TrendMicro Endpoint, Burpsuite, Tenable, Whitehat, Keeper Security. 
 - **Code Versioning**: Git, SVN, CVS. 
 - **Code Hosting**: Github Enterprise, Bitbucket, Gitlab.
-- **Misc Vendors**: Okta, Looker, SonicWall, Shoretel, Jira, Google Workspaces, OpenVPN, SnipeIT, Eramba, KnowBe4, Cloudflare, Meraki Systems Manager, Meraki Firewall, Meraki Switches. 
+- **Misc Vendors**: Okta, Looker, SonicWall, Shoretel, Jira, Google Workspaces, OpenVPN, SnipeIT, Eramba, KnowBe4, Cloudflare, Meraki Systems Manager, Meraki Firewall, Meraki Switches.
