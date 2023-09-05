@@ -9,7 +9,7 @@
 - **CI/CD Services**: Github Actions, TravisCI, Bamboo, Jenkins, CodePipeline, CodeBuild
 - **CI/CD Tools**: Docker, NPM, Yarn, Grunt, Vagrant.
 - **Infrastructure Tools**: Terraform, Packer. 
-- **AWS Services**: EC2, ECR, ES, EKS, Lambda, S3, EFS, RDS, ElastiCache, VPC, CloudFront, CodeDeploy, CloudWatch, CloudTrail, Config, Control Tower, Redshift, IAM, Secrets, GuardDuty, SSO, ACM, Route53, Secrets, KMS, WAF, SQS, WorkDocs, Client VPN. 
+- **AWS Services**: EC2, ECR, ECS, EKS, Lambda, S3, EFS, RDS, ElastiCache, VPC, CloudFront, CodeDeploy, CloudWatch, CloudTrail, Config, Control Tower, Redshift, IAM, Secrets, GuardDuty, SSO, ACM, Route53, KMS, WAF, SQS, WorkDocs, Client VPN, SNS. 
 - **Logging/Monitoring Services**: CloudWatch, Datadog, NewRelic, EKS, Graylog.
 - **Web Servers**: Nginx, Apache2 
 - **Security Services**: TrendMicro Endpoint, Burpsuite, Tenable, Whitehat, Keeper Security. 
