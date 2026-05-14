@@ -1,18 +1,56 @@
-## Professional Attributes
+# Todd Foley
 
-- **Hosting**: AWS, Rackspace, Linode, Datacenters
-- **Software Languages**: Python, Bash, PHP, Ruby, Javascript
-- **Software Frameworks**: Click, Celery, AngularJs, Symfony, Cilex, ZEND, Cake.
-- **Frameworks & Platforms Written**: OpsCLI, CLAPI, Realm, Zia.
-- **OS**: Ubuntu, Redhat, CentOS, Debian
-- **Databases**: MySQL, Postgres, Elasticsearch, CouchDB, Memcached, Redis, SQLite
-- **CI/CD Services**: Github Actions, TravisCI, Bamboo, Jenkins, CodePipeline, CodeBuild
-- **CI/CD Tools**: Docker, NPM, Yarn, Grunt, Vagrant.
-- **Infrastructure Tools**: Terraform, Packer. 
-- **AWS Services**: EC2, ECR, ECS, EKS, Lambda, S3, EFS, RDS, ElastiCache, VPC, CloudFront, CodeDeploy, CloudWatch, CloudTrail, Config, Control Tower, Redshift, IAM, Secrets, GuardDuty, SSO, ACM, Route53, KMS, WAF, SQS, WorkDocs, Client VPN, SNS. 
-- **Logging/Monitoring Services**: CloudWatch, Datadog, NewRelic, EKS, Graylog.
-- **Web Servers**: Nginx, Apache2 
-- **Security Services**: TrendMicro Endpoint, Burpsuite, Tenable, Whitehat, Keeper Security. 
-- **Code Versioning**: Git, SVN, CVS. 
-- **Code Hosting**: Github Enterprise, Bitbucket, Gitlab.
-- **Misc Vendors**: Okta, Looker, SonicWall, Shoretel, Jira, Google Workspaces, OpenVPN, SnipeIT, Eramba, KnowBe4, Cloudflare, Meraki Systems Manager, Meraki Firewall, Meraki Switches.
+Platform Engineering & Infrastructure leader focused on secure, scalable cloud-native systems.
+
+I’ve spent the last 15+ years building and leading Platform Engineering, Infrastructure, DevOps, SRE, and SecOps organizations across SaaS and cloud-native environments — with a strong focus on AWS, Kubernetes, automation, operational resilience, and developer enablement.
+
+---
+
+## Current Focus Areas
+
+- Cloud Platform Engineering
+- Kubernetes / EKS
+- Terraform & Infrastructure as Code
+- Secure Multi-Account AWS Architecture
+- CI/CD & Developer Enablement
+- Observability & Incident Response
+- Platform Reliability & Operational Scale
+- AI-Assisted Operational Workflows
+- Cloud Security & Governance
+
+---
+
+## Core Technologies
+
+### Cloud & Infrastructure
+AWS, Kubernetes/EKS, ECS, Terraform, Packer, CloudFront, IAM, Control Tower
+
+### CI/CD & Platform Tooling
+GitHub Actions, ArgoCD, Docker, Helm, CircleCI, Harness
+
+### Observability & Reliability
+Datadog, CloudWatch, PagerDuty, Incident Management, RCA
+
+### Security & Governance
+GuardDuty, AWS WAF, Wiz, IAM Governance, SOX/SOC2, Vulnerability Management
+
+### Languages
+Python, Bash, PHP
+
+---
+
+## Areas I've Worked In
+
+- SaaS Platforms
+- Cloud Infrastructure
+- Platform Engineering
+- Security & Governance
+- High-Scale AWS Operations
+- Acquisition & Integration Engineering
+- Blockchain / Crypto Infrastructure
+
+---
+
+## Outside of Work
+
+Based in New Hampshire. I enjoy building things, operational problem solving, motorcycles, and spending time outdoors with my family.
